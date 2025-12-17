@@ -10,13 +10,12 @@ Real-estate "Properties" listings for WordPress built with:
 
 - Plugin: `wp-content/plugins/inone-properties`
 - Theme: `wp-content/themes/inone`
-- ACF import file: `wp-content/plugins/inone-properties/acf-import.json`
 
 ## Requirements
 
 - WordPress 6.0+
 - PHP 7.4+
-- Advanced Custom Fields PRO (required; not included in this repo)
+- Advanced Custom Fields PRO (required;)
 
 ## Quick Start
 
