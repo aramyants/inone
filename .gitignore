@@ -7,6 +7,7 @@
 /readme.html
 
 wp-config.php
+local-xdebuginfo.php
 .env
 .env.*
 !.env.example
